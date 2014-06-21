@@ -1,3 +1,5 @@
 <?php
 
-echo 'tes BERHASIL';
+$uri = 'http://id.yellowpages.co.id/find?what=hotel&where=trenggalek';
+
+echo $uri;
