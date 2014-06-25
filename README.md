@@ -3,7 +3,7 @@ Pagelander
 
 About
 -----
-Project sederhana menggunakan http://flightphp.com/
+Project sederhana 
 
 To do list:
 
